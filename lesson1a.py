@@ -8,11 +8,11 @@ print(message)
 message2 =  " Good bye"
 print(message2)
 
-#concatenating varibles-joining twoor more outputs together
+#concatenating varibles-joining two or more outputs together
 message3 = message + message2
 print(message3)
 
-#Variables can be named using a letter, anumber and an underscore. They can start with a letter or an underscore, not with a number.
+#Variables can be named using a letter, a number and an underscore. They can start with a letter or an underscore, not with a number.
 name_1 = "Brendah"
 print(name_1)
 
