@@ -8,7 +8,7 @@ print(message)
 message2 =  " Good bye"
 print(message2)
 
-#concatenating varibles-joining two or more outputs together
+#concatenating variables-joining two or more outputs together
 message3 = message + message2
 print(message3)
 
