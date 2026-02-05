@@ -16,3 +16,6 @@ print("The coordinates are: ", coordinates)
 print(type(coordinates))
 
 #search and come up with an example of a complex data type
+#complex numbers are written with a "j"as an imaginary part.
+x=2+3j
+print(x)
