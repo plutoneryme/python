@@ -1,5 +1,5 @@
 # Loops - sometimes we may need to do a piece of work a number of repeated times and in such cases we may use loops.
-# A loop is a control structure that allows us to execute a block of code repeatedly untilll a certain condition is met .
+# A loop is a control structure that allows us to execute a block of code repeatedly untill a certain condition is met .
 # There are two types  of loops i.e for loop and while loop.
 # below is the syntax for for loop in python
 """"
